@@ -164,7 +164,7 @@ I'm a passionate **Flutter Developer** with **2 years of hands-on experience** b
 
 | | |
 |---|---|
-| 📱 **Apps Published** | 4+ live apps on Google Play |
+| 📱 **Apps Published** | 15+ live apps on Google Play |
 | ⬇️ **Total Downloads** | 1,000+ across all apps |
 | ⭐ **User Reviews** | Verified ratings on Play Store |
 | 🛠️ **Experience** | 2 Years in Flutter Development |
