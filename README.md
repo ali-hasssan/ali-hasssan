@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ali-hasssan&label=Profile+Views&color=0e75b6&style=flat" alt="ali-hasssan" />
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hasssan.vercel.app-02D9F7?style=for-the-badge)](https://hasssan.vercel.app)
+
 </div>
 
 ---
@@ -22,6 +24,7 @@ I'm a passionate **Flutter Developer** with **2 years of hands-on experience** b
 - 🌐 Integrating **Firebase**, **REST APIs**, and modern **state management** patterns
 - 🎯 Always exploring new Flutter packages, widgets, and best practices
 - 📍 Based in **Pakistan**
+- 🌐 Check out my portfolio at **[hasssan.vercel.app](https://hasssan.vercel.app)**
 
 ---
 
@@ -178,6 +181,7 @@ I'm always open to collaborating on Flutter projects, freelance work, or just ch
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923148771394)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085236430540)
+[![Portfolio](https://img.shields.io/badge/Portfolio-02D9F7?style=for-the-badge&logo=vercel&logoColor=white)](https://hasssan.vercel.app)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Ali%20Hassan%20Dev-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Ali+Hassan+Dev)
 
 </div>
