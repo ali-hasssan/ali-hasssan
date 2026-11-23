@@ -4,7 +4,7 @@
 
 ### Flutter Developer · Mobile App Engineer · UI/UX Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02D9F7&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps;Clean+UI+%7C+Smooth+Animations;Android+%26+iOS+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02D9F7&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Developer;Cross-Platform+Mobile+Apps;Clean+UI+%7C+Smooth+Animations;Android+%26+iOS+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ali-hasssan&label=Profile+Views&color=0e75b6&style=flat" alt="ali-hasssan" />
 
