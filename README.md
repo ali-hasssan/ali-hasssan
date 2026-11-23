@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Flutter Developer** with **2 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
+I'm a passionate **Flutter Developer** with **4 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
 
 - 🚀 Currently building cross-platform apps with **Flutter & FlutterFlow**
 - 🔥 Passionate about **clean architecture**, **pixel-perfect UI**, and **performance optimization**
