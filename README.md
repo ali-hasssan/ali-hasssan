@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Flutter Developer** with **4 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**. Alongside mobile, I also build **React-based web applications**, from e-commerce sites to admin dashboards. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
+I'm a passionate **Flutter & React Developer** with **4 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**, and modern web applications — from e-commerce sites to admin dashboards. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
 
 - 🚀 Currently building cross-platform apps with **Flutter & FlutterFlow**
 - 🌐 Building modern web apps & e-commerce platforms with **React, Vite & Firebase**
@@ -204,11 +204,10 @@ I'm a passionate **Flutter Developer** with **4 years of hands-on experience** b
 | | |
 |---|---|
 | 💼 **Completed Projects** | 40+ apps & websites delivered |
-| 📱 **Apps Published** | 15+ live apps on Google Play |
 | 🌐 **Web Projects** | React & Firebase websites — see [Portfolio](https://hasssan.vercel.app) |
 | ⬇️ **Total Downloads** | 10,000+ across all apps |
 | ⭐ **User Reviews** | Verified ratings on Play Store |
-| 🛠️ **Experience** | 4 Years in Flutter Development |
+| 🛠️ **Experience** | 4 Years in Flutter & React Development |
 | 🌍 **Platforms** | Android, iOS & Web |
 | 🧩 **App Categories** | Games · Utilities · Fintech · Delivery · Entertainment |
 
@@ -223,7 +222,7 @@ I'm always open to collaborating on Flutter or React projects, freelance work, o
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923148771394)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085236430540)
 [![Portfolio](https://img.shields.io/badge/Portfolio-02D9F7?style=for-the-badge&logo=vercel&logoColor=white)](https://hasssan.vercel.app)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Ali%20Hassan%20Dev-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Ali+Hassan+Dev)
+[![Google Play](https://img.shields.io/badge/Google%20Play-NestMob-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=NestMob)
 
 </div>
 
