@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ali Hassan
 
-### Flutter Developer · Mobile App Engineer · UI/UX Enthusiast
+### Flutter & React Developer · Mobile & Web Engineer · UI/UX Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02D9F7&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Developer;Cross-Platform+Mobile+Apps;Clean+UI+%7C+Smooth+Animations;Android+%26+iOS+Engineer)](https://git.io/typing-svg)
 
@@ -16,15 +16,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Flutter Developer** with **4 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
+I'm a passionate **Flutter Developer** with **4 years of hands-on experience** building beautiful, high-performance mobile applications for both **Android & iOS**. Alongside mobile, I also build **React-based web applications**, from e-commerce sites to admin dashboards. I specialize in crafting clean UIs, smooth animations, and delivering real-world solutions that users love.
 
 - 🚀 Currently building cross-platform apps with **Flutter & FlutterFlow**
+- 🌐 Building modern web apps & e-commerce platforms with **React, Vite & Firebase**
 - 🔥 Passionate about **clean architecture**, **pixel-perfect UI**, and **performance optimization**
 - 📱 Published multiple apps on the **Google Play Store** with real users
-- 🌐 Integrating **Firebase**, **REST APIs**, and modern **state management** patterns
+- 🌐 Integrating **Firebase**, **REST APIs**, **Stripe**, and modern **state management** patterns
 - 🎯 Always exploring new Flutter packages, widgets, and best practices
 - 📍 Based in **Pakistan**
-- 🌐 Check out my portfolio at **[hasssan.vercel.app](https://hasssan.vercel.app)**
+- 🌐 Check out my portfolio at **[hasssan.vercel.app](https://hasssan.vercel.app)** — for web & React project details
 
 ---
 
@@ -37,10 +38,17 @@ I'm a passionate **Flutter Developer** with **4 years of hands-on experience** b
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
 ### 🔥 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧠 State Management
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -61,26 +69,27 @@ I'm a passionate **Flutter Developer** with **4 years of hands-on experience** b
 ## 📱 Published Projects
 
 > All apps are live on Google Play Store, built with Flutter for Android & iOS.
+> For React/web projects, check out my **[Portfolio](https://hasssan.vercel.app)**.
 
 ---
 
-### 🎲 [Dicefy – Roll the Dice](https://play.google.com/store/apps/details?id=com.jinasoft.dicefy)
+### 🛵 [SKP Go – Food & Grocery Delivery](https://play.google.com/store/apps/details?id=com.skp_go.app)
 
-> A feature-rich virtual dice app for all your board game needs.
+> An on-demand delivery app bringing food, groceries, medicine, and parcels right to your door.
 
-**Overview:** Dicefy is a virtual dice companion designed for board game enthusiasts. Whether you're playing Ludo, Monopoly, Snakes & Ladders, or any dice-based game, Dicefy delivers a realistic rolling experience — no physical dice required.
+**Overview:** SKP Go is a customer-facing delivery app covering multiple services — food, groceries, vegetables, medicine, and parcel delivery — all from one place. Built with real-time order tracking and live location so users always know exactly where their order is.
 
 **✨ Key Features:**
-- 🎲 Realistic dice rolling with physics-like animations
-- 🎤 **Voice Roll** — hands-free control (say "Roll the dice" to trigger a roll)
-- 🫳 **Shake-to-Roll** — shake your phone for a natural dice throw
-- 🎵 Background music and immersive sound effects
-- 📱 Lightweight, smooth, and suitable for all ages
+- 🍔 Multi-service delivery — food, groceries, vegetables, medicine & parcels
+- 📍 Live GPS tracking with real-time order status updates
+- 🔐 Simple email/password login
+- 🗺️ Map-based address selection for accurate deliveries
+- 📱 Clean, fast, and easy-to-use interface
 
 **🔧 Tech Used:**
-`Flutter` `Dart` `Animations` `Sensors API` `Speech Recognition`
+`Flutter` `Dart` `Firebase` `Google Maps` `Real-time Tracking` `State Management`
 
-[![Play Store](https://img.shields.io/badge/Google%20Play-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jinasoft.dicefy)
+[![Play Store](https://img.shields.io/badge/Google%20Play-Download-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.skp_go.app)
 
 ---
 
@@ -143,6 +152,36 @@ I'm a passionate **Flutter Developer** with **4 years of hands-on experience** b
 
 ---
 
+## 🌐 Web Projects
+
+> A few of the React/Firebase websites I've built for clients. More on my **[Portfolio](https://hasssan.vercel.app)**.
+
+---
+
+### 🖨️ [Circuit Printing](https://circuitprinting.com)
+
+> E-commerce platform for a print & promotional products business.
+
+**Overview:** Full e-commerce site with live payments, a Sinalite reseller API integration for order fulfillment, and an admin panel for managing products, orders, and promotions.
+
+**🔧 Tech Used:**
+`React` `Firebase` `Stripe` `Cloud Functions` `Reseller API Integration`
+
+[![Website](https://img.shields.io/badge/Visit%20Site-circuitprinting.com-02D9F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://circuitprinting.com)
+
+---
+
+### 🪟 [Made to Measure Blinds](https://madetomeasureblinds.uk)
+
+> E-commerce website for made-to-measure blinds & curtains, with a wholesale pricing tier and a web-based admin dashboard.
+
+**🔧 Tech Used:**
+`React (Vite)` `Firebase` `Firestore` `Stripe` `Admin Dashboard`
+
+[![Website](https://img.shields.io/badge/Visit%20Site-madetomeasureblinds.uk-02D9F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://madetomeasureblinds.uk)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -164,18 +203,20 @@ I'm a passionate **Flutter Developer** with **4 years of hands-on experience** b
 
 | | |
 |---|---|
+| 💼 **Completed Projects** | 40+ apps & websites delivered |
 | 📱 **Apps Published** | 15+ live apps on Google Play |
+| 🌐 **Web Projects** | React & Firebase websites — see [Portfolio](https://hasssan.vercel.app) |
 | ⬇️ **Total Downloads** | 10,000+ across all apps |
 | ⭐ **User Reviews** | Verified ratings on Play Store |
-| 🛠️ **Experience** | 2 Years in Flutter Development |
-| 🌍 **Platforms** | Android & iOS |
-| 🧩 **App Categories** | Games · Utilities · Fintech · Entertainment |
+| 🛠️ **Experience** | 4 Years in Flutter Development |
+| 🌍 **Platforms** | Android, iOS & Web |
+| 🧩 **App Categories** | Games · Utilities · Fintech · Delivery · Entertainment |
 
 ---
 
 ## 📫 Get In Touch
 
-I'm always open to collaborating on Flutter projects, freelance work, or just chatting about mobile development!
+I'm always open to collaborating on Flutter or React projects, freelance work, or just chatting about mobile & web development!
 
 <div align="center">
 
@@ -190,8 +231,8 @@ I'm always open to collaborating on Flutter projects, freelance work, or just ch
 
 <div align="center">
 
-*"I craft beautiful, high-performance mobile apps using Flutter & FlutterFlow.*
-*Passionate about clean UI, smooth animations, and delivering real-world solutions on Android & iOS."*
+*"I craft beautiful, high-performance mobile apps and modern web experiences using Flutter, React & Firebase.*
+*Passionate about clean UI, smooth animations, and delivering real-world solutions on Android, iOS & the Web."*
 
 **⭐ If you find my work interesting, consider starring my repos!**
 
